@@ -5,7 +5,6 @@
 - Tema: CRUD MONGODB & EXPRESS
 - Desarrollado por: Aj&Designs
 - Maquetado por: Aj&Designs
-- Ing. Mecatronico y diseñador Web
 
 ## Notas
 
